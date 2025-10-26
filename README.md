@@ -1,4 +1,4 @@
-# 👁 20-20-20 EyeGuard
+#  20-20-20 EyeGuard
 
 **20-20-20 EyeGuard** is a Java desktop application that helps users follow the 20-20-20 eye care rule: every 20 minutes, look at something 20 feet away for 20 seconds. The app reminds users, logs compliance, and tracks streaks over time.
 
